@@ -1,4 +1,5 @@
 # Mars-search-algorithms
+TC2032 - Intelligent agent design
 
 The objective of this project is to evaluate the performance of multiple search algorithms in a Mars simulated environment.
 
